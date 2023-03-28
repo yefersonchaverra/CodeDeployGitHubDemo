@@ -1,0 +1,50 @@
+<Data>
+<Cliente>
+	<Informe 
+			apellidoDigitado="Perez" 
+			codSeguridad="1234567" 
+			fechaConsulta="2022-04-20T02:11:58" 
+			identificacionDigitada="1000000754" 
+			respuesta="13" 
+			tipoIdDigitado="1">
+				<NaturalNacional 
+					nombreCompleto="Fulana Perez Perez" 
+					nombres="Fulana" 
+					primerApellido="Perez" 
+					rut="false" 
+					segundoApellido="Perez" 
+					validada="true">
+				<Identificacion 
+				ciudad="BOGOTA D.C." 
+				departamento="CUNDINAMARCA" 
+				estado="00" fechaExpedicion="2019-04-05"
+				numero="01000001234"></Identificacion>
+				<Edad max="21" min="18">20</Edad>
+				</NaturalNacional>
+	</Informe>
+</Cliente>
+<Cliente>
+	<Informe 
+			apellidoDigitado="Jaramillo" 
+			codSeguridad="6789123" 
+			fechaConsulta="2022-04-20T02:11:58" 
+			identificacionDigitada="1000000754" 
+			respuesta="13" 
+			tipoIdDigitado="1">
+				<NaturalNacional 
+					nombreCompleto="Fulano Jaramillo Jaramillo" 
+					nombres="Fulano" 
+					primerApellido="Jaramillo" 
+					rut="false" 
+					segundoApellido="Jaramillo" 
+					validada="true">
+				<Identificacion 
+				ciudad="BOGOTA D.C." 
+				departamento="CUNDINAMARCA" 
+				estado="00" fechaExpedicion="2019-04-05"
+				numero="01000004567"></Identificacion>
+				<Edad max="21" min="18">21</Edad>
+				</NaturalNacional>
+	</Informe>
+</Cliente>
+</Data>
